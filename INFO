@@ -1,0 +1,2 @@
+openssl enc -in code.tar.gz -aes-256-cbc -d | tar -zxvf -
+
